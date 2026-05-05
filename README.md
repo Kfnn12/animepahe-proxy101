@@ -65,4 +65,5 @@ GET https://your-worker.workers.dev/proxy?url=<the_m3u8_url>&referer=https://kwi
 This project acts as the "muscle" (handling video streaming) and is meant to work perfectly alongside a Node.js scraping API (the "brain" that handles searching, getting episodes, etc.). 
 
 Use your scraping API to get the links, and then feed those links into this Cloudflare Worker for flawless, high-performance streaming playback on your frontend clients.
+
 ![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Kfnn12/animepahe-proxy101)
