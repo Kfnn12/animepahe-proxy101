@@ -1,3 +1,3 @@
-name = "animepahe-proxy"
+name = "animepahe-proxy102"
 main = "worker.js"
 compatibility_date = "2024-03-20"
